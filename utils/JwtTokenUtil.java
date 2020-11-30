@@ -24,9 +24,9 @@ public class JwtTokenUtil {
 
     private static Logger log = LoggerFactory.getLogger(JwtTokenUtil.class);
 
-    public static final String clientId="098f6bcd4621d373cade4e832627b4f6";
-    public static final String base64Secret="MDk4ZjZiY2Q0NjIxZDM3M2NhZGU0ZTgzMjYyN2I0ZjY";
-    public static final String name="restApiUser";
+    public static final String clientId="09867897y86y78";
+    public static final String base64Secret="MDkjZiY2Q05vggbjhghfvzMjYyN2I0yhY";
+    public static final String name="api";
     //设置过期时间为50分钟
     public static final int expiresSecond=12*60*60*1000;
 
